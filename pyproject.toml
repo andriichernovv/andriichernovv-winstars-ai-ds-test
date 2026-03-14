@@ -1,0 +1,53 @@
+[project]
+name = "winstars-ai-ds-test"
+version = "0.1.0"
+description = "Data Science internship test: MNIST OOP classifiers and NER-image pipeline"
+authors = [
+    { name = "Andrii Chernov" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "torch",
+    "torchvision",
+    "transformers",
+    "datasets",
+    "pillow",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+
+task1 = [
+    "scikit-learn",
+    "torch",
+    "torchvision"
+]
+
+task2 = [
+    "transformers",
+    "datasets",
+    "torchvision",
+    "pillow"
+]
+
+dev = [
+    "black",
+    "ruff",
+    "pytest",
+    "jupyter"
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
