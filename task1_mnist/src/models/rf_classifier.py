@@ -1,8 +1,8 @@
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 
+from src.interfaces.mnist_classifier_interface import MnistClassifierInterface
 from src.utils.logger import setup_logger
-from src.models.interface import MnistClassifierInterface
 
 logger = setup_logger(__name__)
 

@@ -38,10 +38,10 @@ def load_mnist(
         raise
 
     logger.info("MNIST dataset loaded successfully.")
-    log_shape(logger=logger, "x_train", x_train)
-    log_shape(logger=logger, "y_train", y_train)
-    log_shape(logger=logger, "x_test", x_test)
-    log_shape(logger=logger, "y_test", y_test)
+    log_shape(logger=logger, name = "x_train", array = x_train)
+    log_shape(logger=logger, name = "y_train", array = y_train)
+    log_shape(logger=logger, name = "x_test", array = x_test)
+    log_shape(logger=logger, name = "y_test", array = y_test)
 
     x_train = x_train.astype(np.float32)
     x_test = x_test.astype(np.float32)
