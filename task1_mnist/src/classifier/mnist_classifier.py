@@ -6,7 +6,7 @@ from src.models.rf_classifier import RandomForestMnistClassifier
 from src.models.nn_classifier import FeedForwardMnistClassifier
 from src.models.cnn_classifier import CnnMnistClassifier
 
-from src.data.mnist_loader import flatten_images, add_channel_dimension
+from src.loaders.mnist_loader import flatten_images, add_channel_dimension
 
 
 logger = setup_logger(__name__)
