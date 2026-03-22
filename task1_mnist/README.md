@@ -282,5 +282,3 @@ This project is part of the Winstars AI DS Test assignment. See the main reposit
 - **Andrii Chernov** - *Initial implementation*
 
 ---
-
-*This implementation demonstrates best practices in machine learning engineering, including modular design, comprehensive testing, and clear documentation.*
