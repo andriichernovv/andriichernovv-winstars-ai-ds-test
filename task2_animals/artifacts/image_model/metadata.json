@@ -1,0 +1,21 @@
+{
+  "class_names": [
+    "antelope",
+    "badger",
+    "bat",
+    "bear",
+    "bee",
+    "beetle",
+    "bison",
+    "boar",
+    "butterfly",
+    "cat"
+  ],
+  "image_size": 224,
+  "manifest_path": "c:\\Visual_Studio_Code_Code\\winstars-ai-ds-test\\task2_animals\\data\\manifests\\image_manifest.csv",
+  "best_val_accuracy": 0.9888888888888889,
+  "test_metrics": {
+    "loss": 0.2265464992986785,
+    "accuracy": 0.9222222222222223
+  }
+}

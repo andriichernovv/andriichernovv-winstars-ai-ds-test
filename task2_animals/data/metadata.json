@@ -1,0 +1,20 @@
+{
+  "image_root": "C:\\Users\\Reymund\\.cache\\kagglehub\\datasets\\iamsouravbanerjee\\animal-image-dataset-90-different-animals\\versions\\5\\animals\\animals",
+  "class_names": [
+    "antelope",
+    "badger",
+    "bat",
+    "bear",
+    "bee",
+    "beetle",
+    "bison",
+    "boar",
+    "butterfly",
+    "cat"
+  ],
+  "image_manifest_path": "c:\\Visual_Studio_Code_Code\\winstars-ai-ds-test\\task2_animals\\data\\manifests\\image_manifest.csv",
+  "text_dataset_dir": "c:\\Visual_Studio_Code_Code\\winstars-ai-ds-test\\task2_animals\\data\\text_dataset",
+  "text_samples_per_class": 32,
+  "val_ratio": 0.15,
+  "test_ratio": 0.15
+}

@@ -1,0 +1,16 @@
+{
+  "class_names": [
+    "antelope",
+    "badger",
+    "bat",
+    "bear",
+    "bee",
+    "beetle",
+    "bison",
+    "boar",
+    "butterfly",
+    "cat"
+  ],
+  "max_length": 64,
+  "dataset_dir": "c:\\Visual_Studio_Code_Code\\winstars-ai-ds-test\\task2_animals\\data\\text_dataset"
+}

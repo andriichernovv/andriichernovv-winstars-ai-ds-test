@@ -1,0 +1,20 @@
+{
+  "class_names": [
+    "antelope",
+    "badger",
+    "bat",
+    "bear",
+    "bee",
+    "beetle",
+    "bison",
+    "boar",
+    "butterfly",
+    "cat"
+  ],
+  "text_samples_per_class": 32,
+  "splits": {
+    "train": 280,
+    "val": 50,
+    "test": 50
+  }
+}

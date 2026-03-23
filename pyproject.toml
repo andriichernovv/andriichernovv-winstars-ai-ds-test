@@ -1,7 +1,7 @@
 [project]
 name = "winstars-ai-ds-test"
 version = "0.1.0"
-description = "Data Science internship test: MNIST OOP classifiers and NER-image pipeline"
+description = "Data Science internship test: MNIST OOP classifiers and animal text-image verification pipeline"
 authors = [
     { name = "Andrii Chernov" }
 ]
@@ -9,13 +9,17 @@ readme = "README.md"
 requires-python = ">=3.10"
 
 dependencies = [
+    "easyocr>=1.7.2",
+    "ipywidgets>=8.1.8",
     "kaggle>=1.7.4.5",
     "kagglehub>=1.0.0",
     "matplotlib>=3.10.8",
     "numpy>=2.2.6",
     "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
     "tensorflow>=2.21.0",
+    "torch>=2.10.0",
 ]
 
 [project.optional-dependencies]
@@ -27,10 +31,11 @@ task1 = [
 ]
 
 task2 = [
-    "transformers",
-    "datasets",
+    "torch",
     "torchvision",
-    "pillow"
+    "pillow",
+    "transformers",
+    "ipywidgets"
 ]
 
 dev = [

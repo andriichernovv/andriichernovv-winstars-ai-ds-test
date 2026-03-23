@@ -1,0 +1,302 @@
+[
+  {
+    "id": 33,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 34,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 35,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 36,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 37,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 71,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 72,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 73,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 74,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 75,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 109,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 110,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 111,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 112,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 113,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 147,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 148,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 149,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 150,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 151,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 185,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 186,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 187,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 188,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 189,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 223,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 224,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 225,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 226,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 227,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 261,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 262,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 263,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 264,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 265,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 299,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 300,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 301,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 302,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 303,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 337,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 338,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 339,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 340,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 341,
+    "text": "Please tell me what animal is in the image.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 375,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 376,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 377,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 378,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 379,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  }
+]

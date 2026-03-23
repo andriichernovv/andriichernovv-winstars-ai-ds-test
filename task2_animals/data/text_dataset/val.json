@@ -1,0 +1,582 @@
+[
+  {
+    "id": 28,
+    "text": "This photo shows a antelope.",
+    "animal": "antelope",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "label": "ANIMAL",
+        "text": "antelope"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "This photo shows a antelope.",
+    "animal": "antelope",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "label": "ANIMAL",
+        "text": "antelope"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "I am pretty sure this is a antelope.",
+    "animal": "antelope",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "label": "ANIMAL",
+        "text": "antelope"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "This photo shows a antelope.",
+    "animal": "antelope",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "label": "ANIMAL",
+        "text": "antelope"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 66,
+    "text": "My guess is that this is a badger.",
+    "animal": "badger",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "ANIMAL",
+        "text": "badger"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "text": "Could this be a badger?",
+    "animal": "badger",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "ANIMAL",
+        "text": "badger"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "text": "I think this is a badger.",
+    "animal": "badger",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "ANIMAL",
+        "text": "badger"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "text": "My guess is that this is a badger.",
+    "animal": "badger",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "ANIMAL",
+        "text": "badger"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 104,
+    "text": "This photo shows a bat.",
+    "animal": "bat",
+    "entities": [
+      {
+        "start": 19,
+        "end": 22,
+        "label": "ANIMAL",
+        "text": "bat"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "text": "The animal in the picture is a bat.",
+    "animal": "bat",
+    "entities": [
+      {
+        "start": 31,
+        "end": 34,
+        "label": "ANIMAL",
+        "text": "bat"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "text": "Could this be a bat?",
+    "animal": "bat",
+    "entities": [
+      {
+        "start": 16,
+        "end": 19,
+        "label": "ANIMAL",
+        "text": "bat"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "text": "This photo shows a bat.",
+    "animal": "bat",
+    "entities": [
+      {
+        "start": 19,
+        "end": 22,
+        "label": "ANIMAL",
+        "text": "bat"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 142,
+    "text": "My guess is that this is a bear.",
+    "animal": "bear",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "label": "ANIMAL",
+        "text": "bear"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "text": "The animal in the picture is a bear.",
+    "animal": "bear",
+    "entities": [
+      {
+        "start": 31,
+        "end": 35,
+        "label": "ANIMAL",
+        "text": "bear"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "text": "I am pretty sure this is a bear.",
+    "animal": "bear",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "label": "ANIMAL",
+        "text": "bear"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "text": "Could this be a bear?",
+    "animal": "bear",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "ANIMAL",
+        "text": "bear"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 180,
+    "text": "The image probably contains a bee.",
+    "animal": "bee",
+    "entities": [
+      {
+        "start": 30,
+        "end": 33,
+        "label": "ANIMAL",
+        "text": "bee"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "text": "I think this is a bee.",
+    "animal": "bee",
+    "entities": [
+      {
+        "start": 18,
+        "end": 21,
+        "label": "ANIMAL",
+        "text": "bee"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "text": "This photo shows a bee.",
+    "animal": "bee",
+    "entities": [
+      {
+        "start": 19,
+        "end": 22,
+        "label": "ANIMAL",
+        "text": "bee"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "text": "I think this is a bee.",
+    "animal": "bee",
+    "entities": [
+      {
+        "start": 18,
+        "end": 21,
+        "label": "ANIMAL",
+        "text": "bee"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "text": "I am not sure what species is shown here.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 218,
+    "text": "I am pretty sure this is a beetle.",
+    "animal": "beetle",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "ANIMAL",
+        "text": "beetle"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "text": "The image probably contains a beetle.",
+    "animal": "beetle",
+    "entities": [
+      {
+        "start": 30,
+        "end": 36,
+        "label": "ANIMAL",
+        "text": "beetle"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "text": "It looks like a beetle.",
+    "animal": "beetle",
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "label": "ANIMAL",
+        "text": "beetle"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "text": "My guess is that this is a beetle.",
+    "animal": "beetle",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "ANIMAL",
+        "text": "beetle"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 256,
+    "text": "The image probably contains a bison.",
+    "animal": "bison",
+    "entities": [
+      {
+        "start": 30,
+        "end": 35,
+        "label": "ANIMAL",
+        "text": "bison"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "text": "This photo shows a bison.",
+    "animal": "bison",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "label": "ANIMAL",
+        "text": "bison"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "text": "This photo shows a bison.",
+    "animal": "bison",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "label": "ANIMAL",
+        "text": "bison"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "text": "My guess is that this is a bison.",
+    "animal": "bison",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "ANIMAL",
+        "text": "bison"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 294,
+    "text": "The animal in the picture is a boar.",
+    "animal": "boar",
+    "entities": [
+      {
+        "start": 31,
+        "end": 35,
+        "label": "ANIMAL",
+        "text": "boar"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "text": "It looks like a boar.",
+    "animal": "boar",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "ANIMAL",
+        "text": "boar"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "text": "The image probably contains a boar.",
+    "animal": "boar",
+    "entities": [
+      {
+        "start": 30,
+        "end": 34,
+        "label": "ANIMAL",
+        "text": "boar"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "text": "I am pretty sure this is a boar.",
+    "animal": "boar",
+    "entities": [
+      {
+        "start": 27,
+        "end": 31,
+        "label": "ANIMAL",
+        "text": "boar"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 332,
+    "text": "The image probably contains a butterfly.",
+    "animal": "butterfly",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "label": "ANIMAL",
+        "text": "butterfly"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "text": "My guess is that this is a butterfly.",
+    "animal": "butterfly",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "ANIMAL",
+        "text": "butterfly"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "text": "My guess is that this is a butterfly.",
+    "animal": "butterfly",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "ANIMAL",
+        "text": "butterfly"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "text": "The image probably contains a butterfly.",
+    "animal": "butterfly",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "label": "ANIMAL",
+        "text": "butterfly"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "text": "The text does not mention any animal.",
+    "animal": "",
+    "entities": []
+  },
+  {
+    "id": 370,
+    "text": "I am pretty sure this is a cat.",
+    "animal": "cat",
+    "entities": [
+      {
+        "start": 27,
+        "end": 30,
+        "label": "ANIMAL",
+        "text": "cat"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "text": "This photo shows a cat.",
+    "animal": "cat",
+    "entities": [
+      {
+        "start": 19,
+        "end": 22,
+        "label": "ANIMAL",
+        "text": "cat"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "text": "Could this be a cat?",
+    "animal": "cat",
+    "entities": [
+      {
+        "start": 16,
+        "end": 19,
+        "label": "ANIMAL",
+        "text": "cat"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "text": "Could this be a cat?",
+    "animal": "cat",
+    "entities": [
+      {
+        "start": 16,
+        "end": 19,
+        "label": "ANIMAL",
+        "text": "cat"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "text": "I cannot identify the animal in this picture.",
+    "animal": "",
+    "entities": []
+  }
+]
